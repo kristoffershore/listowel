@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@tsconfig/svelte": "^3.0.0",
-    "uuid": "^9.0.0"
-  }
-}
